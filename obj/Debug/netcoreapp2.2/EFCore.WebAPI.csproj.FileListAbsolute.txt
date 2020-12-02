@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.deps.json
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.runtimeconfig.json
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.dll
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.pdb
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.AssemblyInfo.cs
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.dll
+C:\Users\Pichau\Documents\DonetSql\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.pdb
